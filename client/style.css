@@ -1,0 +1,51 @@
+body{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+#opponent-deck{
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+#home-deck{
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.card-row{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.tile{
+	border: 1px solid;
+	height: 180px;
+}
+.card{
+	border: 1px solid;
+	min-height: 180px;
+	background: #eee;
+}
+.center{
+	text-align: center;
+}
+.left{
+	text-align: left;
+}
+.right{
+	text-align: right;
+}
+.card table{
+	width: 100%;
+}
+.card tr{
+	height: 60px;
+}
+.card td{
+	padding: 5px;
+}
+.card td.top{
+	vertical-align: top;
+}
+.card td.bottom{
+	vertical-align: bottom;
+}
+.face-down{
+	background: #333;
+}
