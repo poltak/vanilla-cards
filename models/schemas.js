@@ -10,4 +10,4 @@ Schemas.Log = {};
 
 
 // Attach schemas to collections
-GameLogs.attachSchema(Schemas.Log);
+//GameLogs.attachSchema(Schemas.Log);
