@@ -1,3 +1,3 @@
 Template.hand.helpers({
-  cardsInHand: Meteor.subscribe('cards');
+  cardsInHand: Meteor.subscribe('cards')
 });
