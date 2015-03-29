@@ -1,0 +1,15 @@
+<template name="opponentDeck">
+	<div class="face-down">
+		{{#each opponentCards}}
+		{{> card}}
+		{{/each}}
+	</div>
+</template>
+
+<template name="homeDeck">
+	<div class="face-up">
+		{{#each homeCards}}
+		{{> card}}
+		{{/each}}
+	</div>
+</template>
