@@ -9,4 +9,9 @@ Basic idea is to have a free-to-play, randomised card game (game hand is randomi
 
 ## Run instructions
 
-Download meteor distribution, cd to project folder, do a "meteor" to run, to reset project do a "meteor reset". 
+Download meteor distribution, cd to project folder, do a "meteor" to run, to reset project do a "meteor reset". The dummy cards are inserted into the mongodb on first run.
+
+## Meteor Mongo
+
+To enter the mongo shell do "meteor mongo". To view the collections do "show collections;". 
+
