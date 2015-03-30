@@ -26,5 +26,6 @@ Player.prototype.addCard = function (cardId) {
 
 	// If everything went well
 	this.deck.push(card);
+	console.log('');
 	return true;
 };
