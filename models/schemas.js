@@ -1,7 +1,8 @@
+// Commented this out for  while
 // meteor-collection2 schemas for previously instantiated collections
-var Schemas = {};
+// var Schemas = {};
 
-Schemas.Log = {};
+// Schemas.Log = {};
 
 
 // Attach schemas to collections

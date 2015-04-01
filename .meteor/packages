@@ -6,3 +6,5 @@
 
 meteor-platform
 insecure
+aldeed:collection2
+iron:router
