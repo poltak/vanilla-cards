@@ -12,8 +12,8 @@
     this.down = cardObj.down;
     this.left = cardObj.left;
     this.right = cardObj.right;
-	*/
-    
+    */
+
     this.attacks['up'] = cardObj.up;
     this.attacks['right'] = cardObj.right;
     this.attacks['down'] = cardObj.down;

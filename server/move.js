@@ -4,7 +4,7 @@
 //variable: cardID // the card that is going to be played in this move
 //variable: position // the board position that the card is going to be moved to
 
-var Move = function(cardId, position){
-	this.cardId = cardId;
-	this.position = position;
+var Move = function(cardId, position) {
+  this.cardId = cardId;
+  this.position = position;
 }
